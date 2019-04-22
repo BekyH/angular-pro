@@ -1,0 +1,22 @@
+{
+  "name": "ce2",
+  "version": "1.0.0",
+  "description": "\"this is angular\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bereketheramo/angular.git"
+  },
+  "author": "Beky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bereketheramo/angular/issues"
+  },
+  "homepage": "https://github.com/bereketheramo/angular#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
